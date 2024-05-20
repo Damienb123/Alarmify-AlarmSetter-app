@@ -194,5 +194,5 @@ This file defines the colors used in the application.
 5. Toggle the alarm off by pressing the **ToggleButton** again.
 
 ## Image Visual
-
+<img src="Main Screen.png" width=200> |
 ## Video Walkthrough
