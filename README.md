@@ -1,4 +1,4 @@
-# Alarmify-AlarmSetter-app
+|# Alarmify-AlarmSetter-app
 
 # Table of Contents
 
@@ -194,5 +194,7 @@ This file defines the colors used in the application.
 5. Toggle the alarm off by pressing the **ToggleButton** again.
 
 ## Image Visual
-<img src="Main Screen.png" width=200> |
+
+<img src="Main Screen.png" width=200> | <img src="AlarmSetScreen.png" width=200>
+
 ## Video Walkthrough
