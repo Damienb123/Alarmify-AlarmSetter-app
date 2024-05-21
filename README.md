@@ -12,7 +12,6 @@
 3. [Setup Instructions](#Setup-Instructions)
 4. [Usage Instructions](#Usage-Instructions)
 5. [Image Visual](#Image-Visual)
-6. [Video Walkthrough](#Video-Walkthrough)
 
 ## Overview
 
@@ -196,5 +195,3 @@ This file defines the colors used in the application.
 ## Image Visual
 
 <img src="Main Screen.png" width=200> | <img src="AlarmSetScreen.png" width=200>
-
-## Video Walkthrough
